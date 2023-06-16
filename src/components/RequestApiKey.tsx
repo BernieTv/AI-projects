@@ -1,6 +1,6 @@
 "use client";
 
-import { createApiKey } from "@/helpers/create-api-keys";
+import { createApiKey } from "@/helpers/create-api-key";
 import { Key } from "lucide-react";
 import { FC, useState } from "react";
 import CopyButton from "./CopyButton";
